@@ -2,7 +2,7 @@ $:.unshift File.join(File.dirname(__FILE__), 'lib')
 require 'absolver/version'
 
 Gem::Specification.new do |s|
-  s.name     = 'pyrb-runtime'
+  s.name     = 'absolver'
   s.version  = ::Absolver::VERSION
   s.authors  = ['Cameron Dutro']
   s.email    = ['camertron@gmail.com']
